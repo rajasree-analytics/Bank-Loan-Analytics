@@ -31,7 +31,7 @@ The project transforms raw financial data into meaningful insights through data 
 
 📗 Excel Dashboard
 
-View Excel Dashboard []
+View Excel Dashboard [https://docs.google.com/spreadsheets/d/1rBQOAojZcUrskcWm_ynYG6l70-eAAjkx/edit?usp=sharing&ouid=108201821931776483277&rtpof=true&sd=true]
 
 🟡 Power BI Dashboard
 
